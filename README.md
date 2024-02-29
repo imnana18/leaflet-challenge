@@ -47,5 +47,5 @@ This project successfully addressed the USGS's need for enhanced earthquake data
 
 ## References
 
-Dataset created by the United States Geological Survey [Links to an external site](<link-to-dataset>).
+Dataset created by the [United States Geological Survey]([<link-to-dataset>](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)).
 
