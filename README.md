@@ -9,7 +9,6 @@ The United States Geological Survey (USGS) is committed to providing scientific 
 This project, named "leaflet-challenge," aimed to create tools for visualizing earthquake data using Leaflet, allowing the USGS to better educate the public and government organizations about global seismic activity and related issues.
 
 ## Project Setup
-Please see 📁`Leaflet-Part-1` located in 📁`Starter_Code-9`.
 
 1. **Repository Creation:**
    - A new repository was created for this project named "leaflet-challenge."
@@ -30,6 +29,7 @@ Please see 📁`Leaflet-Part-1` located in 📁`Starter_Code-9`.
 ## Earthquake Visualization
 
 ### Task Summary
+Please refer to 📁`Leaflet-Part-1` located in 📁`Starter_Code-9`.
 
 1. **Dataset Retrieval:**
    - Earthquake data was obtained from the USGS GeoJSON Feed page, selecting a dataset such as "All Earthquakes from the Past 7 Days."
