@@ -1,4 +1,4 @@
-# Module 15: Leaflet Challenge
+# Module 15: Leaflet Challenge 🗺️
 
 ## Background
 
